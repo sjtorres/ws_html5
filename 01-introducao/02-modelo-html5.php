@@ -17,7 +17,9 @@
 
         Aqui está meu conteúdo, que serão servidos em meus galhos!
         
-        // Arquivo enviado para o repositório Git via Netbeans
+        <!--Arquivo enviado para o repositório Git via Netbeans-->
+        
+        <!--Arquivo puxado do Git com sucesso!-->
         
     </body>
 </html>
