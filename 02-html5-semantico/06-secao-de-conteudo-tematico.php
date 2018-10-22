@@ -83,55 +83,64 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
                 </hgroup>
                 <div class="clear"></div>
             </div>
-            
+
             <!--CONTAINER DOS ARTIGOS-->
             <div class="container bg-gray">
                 <div class="content">
-
                     <article>
-                        <img title="" alt="" src="">
-                        <h1>HTML5 Semântico!</h1>
+                        <img src="" alt="" title="">
+                        <h1>HTML5 Semântico:</h1>
                         <p class="tagline">Aprenda a produzir conteúdo de qualidade. Otimizando cada bloco tanto para usuários quanto para robôs de busca!</p>
                     </article>
 
                     <article>
-                        <img title="" alt="" src="">
-                        <h1>Tecnologia Apresentada</h1>
-                        <p class="tagline">Descrição</p>
+                        <img src="" alt="" title="">
+                        <h1>CSS produtivo com OOCSS:</h1>
+                        <p class="tagline">Conheça as técnicas de produção do modelo OOCSS, construindo um ambiente padronizado e de ágil desenvolvimento!</p>
+                    </article>
+
+                    <article>        
+                        <img src="" alt="" title="">
+                        <h1>Formulários com HTML5:</h1>
+                        <p class="tagline">Conheça e aprenda a utilizar toda tecnologia dos novos elementos de formulário do HTML5!</p>
                     </article>
 
                     <article>
-                        <img title="" alt="" src="">
-                        <h1>Tecnologia Apresentada</h1>
-                        <p class="tagline">Descrição</p>
+                        <img src="" alt="" title="">
+                        <h1>Áudio e Vídeo na Web:</h1>
+                        <p class="tagline">Nunca foi tão fácil incorporar e controlar mídias na internet. Aprenda a fazer isso de forma fácil!</p>
                     </article>
 
                     <article>
-                        <img title="" alt="" src="">
-                        <h1>Tecnologia Apresentada</h1>
-                        <p class="tagline">Descrição</p>
+                        <img src="" alt="" title="">
+                        <h1>Geolocation e HTML5 Storage:</h1>
+                        <p class="tagline">Aprenda a utilizar a tecnologia de localização do HTML5. E ainda armazene dados de navegação apenas com HTML!</p>
                     </article>
 
                     <article>
-                        <img title="" alt="" src="">
-                        <h1>Tecnologia Apresentada</h1>
-                        <p class="tagline">Descrição</p>
+                        <img src="" alt="" title="">
+                        <h1>Distribuição com Micro Dados:</h1>
+                        <p class="tagline">Aprenda a utilizar o vocabulário dos micro dados para distribuir conteúdo otimizado de forma extrema!</p>
                     </article>
-
-                    <article>
-                        <img title="" alt="" src="">
-                        <h1>Tecnologia Apresentada</h1>
-                        <p class="tagline">Descrição</p>
-                    </article>
-
-                    <article>
-                        <img title="" alt="" src="">
-                        <h1>Tecnologia Apresentada</h1>
-                        <p class="tagline">Descrição</p>
-                    </article>
-
                     <div class="clear"></div>
                 </div>
+            </div>
+        </section>
+        
+        <!--SEÇÃO TEMÁTICA-->
+        <section class="container">
+            <div class="content">
+                <div class="ses_title">
+                    <h1>Ficha Técnica:</h1>
+                    <p class="tagline">Saiba mais sobre o conteúdo do curso WS HTML5!</p>
+                </div>
+                
+                <article><h1>Tempo de Aula: <b>23h</b></h1></article>
+                <article><h1>Certificado: <b>230h</b></h1></article>
+                <article><h1>Módulos: <b>8</b></h1></article>
+                <article><h1>Vídeo Aulas: <b>50</b></h1></article>
+                
+                <div class="clear"></div>
             </div>
         </section>
 
