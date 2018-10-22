@@ -74,6 +74,7 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
         </article>
 
         <!--SEÇÃO RELACIONAL-->
+        <!--CONTAINER DO TITULO-->
         <section class="container">
             <div class="content">
                 <hgroup>
@@ -82,52 +83,53 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
                 </hgroup>
                 <div class="clear"></div>
             </div>
-
+            
+            <!--CONTAINER DOS ARTIGOS-->
             <div class="container bg-gray">
                 <div class="content">
-                    
+
                     <article>
                         <img title="" alt="" src="">
                         <h1>Tecnologia Apresentada</h1>
                         <p class="tagline">Descrição</p>
                     </article>
-                    
+
                     <article>
                         <img title="" alt="" src="">
                         <h1>Tecnologia Apresentada</h1>
                         <p class="tagline">Descrição</p>
                     </article>
-                    
+
                     <article>
                         <img title="" alt="" src="">
                         <h1>Tecnologia Apresentada</h1>
                         <p class="tagline">Descrição</p>
                     </article>
-                    
+
                     <article>
                         <img title="" alt="" src="">
                         <h1>Tecnologia Apresentada</h1>
                         <p class="tagline">Descrição</p>
                     </article>
-                    
+
                     <article>
                         <img title="" alt="" src="">
                         <h1>Tecnologia Apresentada</h1>
                         <p class="tagline">Descrição</p>
                     </article>
-                    
+
                     <article>
                         <img title="" alt="" src="">
                         <h1>Tecnologia Apresentada</h1>
                         <p class="tagline">Descrição</p>
                     </article>
-                    
+
                     <article>
                         <img title="" alt="" src="">
                         <h1>Tecnologia Apresentada</h1>
                         <p class="tagline">Descrição</p>
                     </article>
-                    
+
                     <div class="clear"></div>
                 </div>
             </div>
