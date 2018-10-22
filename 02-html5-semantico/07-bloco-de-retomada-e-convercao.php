@@ -145,7 +145,32 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
         </section>
         
         <!--RETOMADA E COVERÇÃO-->
+        <article class="container bg-gray">
+            <div class="content">
+                <hgroup>
+                    <h1>Faça Parte da Turma WS HTML5, Matricule-se!</h1>
+                    <h2>Começe Agora Mesmo. O Curso é <mark>100% em Vídeo Aulas</mark>, <mark>Online</mark> e <mark>On Demand!</mark></h2>
+                </hgroup>
+                
+                <a title="Quero Me Matricular no Curso WS HTML5 Agora!" target="_blank" href="http://www.sandrotorres.com.br">Comprar WS HTML5!</a>
+                
+                <footer>
+                    <div>
+                        Você estuda quando e onde quiser na melhor plataforma EAD. Com suporte diretamente com o tutor, e todo material disponível para download!
+                    </div>
+                </footer>
+                
+                <div class="clear"></div>
+            </div>
+        </article>
         
+        <!--CONTENT VISUAL-->
+        <div class="container">
+            <div class="content">
+                UpInside Treinamentos. Os melhores e mais completos cursos de desenvolvimento WEB e TI do mercado!
+                <div class="clear"></div>
+            </div>
+        </div>
         
 
         <!-- INÍCIO FOOTER -->
