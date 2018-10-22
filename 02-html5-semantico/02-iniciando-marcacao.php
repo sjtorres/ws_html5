@@ -12,6 +12,8 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
             <script src="js/html5shiv.js"></script>
         <![endif]-->
 
+        <link rel="stylesheet" href="oocss.css">
+
     </head>
     <body>
 
@@ -21,8 +23,15 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
                     Curso Work Series - HTML5 do Jeito Certo!
                 </a>
             </h1>
+
             <ul class="main_nav">
-                <li><a title="" href=""></a></li>
+                <li><a title="HTML5 Semântico" href="<?= BASE; ?>/html5-semantico">Semântica</a></li>
+                <li><a title="Estilo Produtivo com OOCSS" href="<?= BASE; ?>/estilo-com-oocss">OOCSS</a></li>
+                <li><a title="Formulários com HTML5" href="<?= BASE; ?>/formularios-com-html5">Forms</a></li>
+                <li><a title="Audio e Videos na Web" href="<?= BASE; ?>/audio-e-video">Midia</a></li>
+                <li><a title="Geolocation e HTML Storage" href="<?= BASE; ?>/geolocation-e-storage">API's</a></li>
+                <li><a title="Distribuição de Micros Dados" href="<?= BASE; ?>/micro-dados">Micro Dados</a></li>
+                <li><a class="btn btn-green radius boxshadow" title="Comprar Curso" href="http://sandrotorres.com.br" target="_blank" rel="noopener noreferrer"></a></li>
             </ul>
         </header>
 
