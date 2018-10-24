@@ -75,7 +75,7 @@ a img{border: 0;}
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;}
-.last{margin-right: 0;}
+.last{margin-right: 0 !important;}
 .clear{clear: both;}
 
 /*text align*/
