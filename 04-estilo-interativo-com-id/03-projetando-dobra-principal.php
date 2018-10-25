@@ -45,7 +45,7 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
         <!--INÍCIO CONTEÚDO-->
         <article class="container">
             <div class="content">
-                <header>
+                <header class="sectiontitle">
                     <hgroup>
                         <h1>Conheça o curso WS HTML5!</h1>
                         <h2>Veja o que o tutor do curso <mark>Sandro Torres</mark> tem a dizer!</h2>
@@ -53,47 +53,47 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
                 </header>
 
                 <!--VIDEO-->
-                <video src="midias/issues com commits.mp4" width="400" controls></video>
+                <video class="video video-large main_video" src="midias/issues com commits.mp4" width="400" controls></video>
 
-                <aside>
-                    <h1>Pronto para <a title="Comprar o Curso de HTML5 Agora!" target="_blank" href="http://sandrotorres.com.br/">Comprar o Curso </a> e Aprender de Verdade?</h1>
+                <aside class="al-center">
+                    <h1>Pronto para <a class="btn btn-yellow radius" title="Comprar o Curso de HTML5 Agora!" target="_blank" href="http://sandrotorres.com.br/">Comprar o Curso WS HTML5 </a> e Aprender de Verdade?</h1>
                 </aside>
             </div>
 
             <footer class="bg-bluelight">
-                <section class="content">
+                <section class="content main_videos" style="padding-bottom: 10px;">
                     <h1>Veja Algumas Aulas do Curso WS HTML5!</h1>
 
-                    <article>
+                    <article class="box box-small">
                         <div class="thumb">
                             <div class="video_play"></div>
                             <img title="Vídeo Aula Entenda o HTML5" alt="Entenda o HTML5" src="img/entendendo-o-html5.jpg">
                         </div>
-                        <h1>Entenda HTML5</h1>
+                        <h1 class="box_video_title">Entenda HTML5</h1>
                     </article>
 
-                    <article>
+                    <article class="box box-small">
                         <div class="thumb">
                             <div class="video_play"></div>
                             <img title="Vídeo Aula Entenda o HTML5" alt="Entenda o HTML5" src="img/entendendo-o-html5.jpg">
                         </div>
-                        <h1>Entenda HTML5</h1>
+                        <h1 class="box_video_title">Entenda HTML5</h1>
                     </article>
 
-                    <article>
+                    <article class="box box-small">
                         <div class="thumb">
                             <div class="video_play"></div>
                             <img title="Vídeo Aula Entenda o HTML5" alt="Entenda o HTML5" src="img/entendendo-o-html5.jpg">
                         </div>
-                        <h1>Entenda HTML5</h1>
+                        <h1 class="box_video_title">Entenda HTML5</h1>
                     </article>
 
-                    <article>
+                    <article class="box box-small last">
                         <div class="thumb">
                             <div class="video_play"></div>
                             <img title="Vídeo Aula Entenda o HTML5" alt="Entenda o HTML5" src="img/entendendo-o-html5.jpg">
                         </div>
-                        <h1>Entenda HTML5</h1>
+                        <h1 class="box_video_title">Entenda HTML5</h1>
                     </article>
 
                     <div class="clear"></div>
@@ -105,7 +105,7 @@ define('BASE', 'http://localhost/ws_html5/02-html5-semantico/');
         <!--CONTAINER DO TITULO-->
         <section class="container bg-orange">
             <div class="content">
-                <hgroup>
+                <hgroup class="sectiontitle sectiontitle-nomargin">
                     <h1>Conheça as tecnologias apresentadas!</h1>
                     <h2>O Curso WS HTML5 apresenta técnicas com foco em produção e otimização de conteúdo para internet!</h2>
                 </hgroup>
