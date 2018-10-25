@@ -35,3 +35,19 @@
     cursor: pointer;
 }
 .main_videos .video_play:hover {background-color: rgba(207,72,35,0.5);}
+
+/*TEC CARACTERISTICAS*/
+.main_tec_item {padding: 15px 30px; margin-bottom: 30px; min-height: 350px;}
+.main_tec_item:hover {background: #ff7c6d; color: #fff;
+                      -webkit-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
+                      -moz-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
+                      box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
+}
+.main_tec_item img {padding: 25px; width: 80%; margin: 0 10%; background: #eee;
+                    -webkit-border-radius: 50%;
+                    -moz-border-radius: 50%;
+                    border-radius: 50%;
+                    margin-bottom: 15px;
+}
+.main_tec_item h1 {font-size: 1.4em; font-weight: normal; margin-bottom: 15px;}
+.main_tec_item .tagline {font-size: 0.9em;}
