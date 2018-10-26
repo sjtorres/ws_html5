@@ -1,6 +1,6 @@
 /*LOGO*/
-.main_logo {position: relative; width: 242px; height: 60px;}
-.main_logo a {position: absolute; width: 210px; height: 60px; background: url(../img/logo-ws-html5.png) center center no-repeat; background-size: auto 76%;}
+.main_logo {position: relative; width: 250px; height: 71px;}
+.main_logo a {position: absolute; width: 210px; height: 60px; background: url(../img/Logo-SJT-Digital-250x71.png) center center no-repeat; background-size: auto 86%;}
 .main_logo a:hover {background-color: #222;}
 
 /*MENU PRINCIPAL*/
@@ -16,7 +16,7 @@
 .main_footer a:hover {text-decoration: underline;}
 
 .main_ead hr {margin-bottom: 15px;}
-.main_ead .plast {margin: 0; font-size: 0.9; line-height: 1.4;}
+.main_ead .plast {margin: 0; font-size: 1em; line-height: 1.4;}
 
 /*VÍDEO*/
 .main_video {margin-bottom: 24px; padding-bottom: 24px; background: url(../img/video_shadow.png) bottom center no-repeat;}
@@ -37,7 +37,7 @@
 .main_videos .video_play:hover {background-color: rgba(207,72,35,0.5);}
 
 /*TEC CARACTERISTICAS*/
-.main_tec_item {padding: 15px 30px; margin-bottom: 30px; min-height: 350px;}
+.main_tec_item {padding: 15px 30px; margin-bottom: 30px; min-height: 380px;}
 .main_tec_item:hover {background: #ff7c6d; color: #fff;
                       -webkit-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
                       -moz-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.3);
@@ -50,4 +50,12 @@
                     margin-bottom: 15px;
 }
 .main_tec_item h1 {font-size: 1.4em; font-weight: normal; margin-bottom: 15px;}
-.main_tec_item .tagline {font-size: 0.9em;}
+.main_tec_item .tagline {font-size: 1em;}
+
+/*FICHA TÉCNICA*/
+.main_info {padding: 25px; background: #eee; text-align: center;}
+.main_info h1 {font-size: 1em;}
+.main_info b {display: block; font-size: 4em;}
+
+/*DOBRA DE CONVERSÃO*/
+.main_chamada {float: left; width: 80%; margin: 40px 10% 0 10%; font-size: 1.5em; font-weight: 300;}
